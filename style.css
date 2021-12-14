@@ -1,0 +1,82 @@
+body{
+                margin-top: 0px;
+                margin-right: 0px;
+                margin-left: 0px;
+                font-family = "arial, helvetica, san-serif"
+            }
+            .header
+            {
+                text-align: center;
+                color: black;
+                background-image: url(bg2.png);
+                padding: 50px;
+            }
+            .tagline
+            {
+                color: purple;
+            }
+            .contact
+            {
+                background-color: #C7D3D4FF;
+                padding: 5px;
+                font-family: sans-serif;
+                padding-left: 20px;
+            }
+            .contactp
+            {
+                font-style: bold;
+                display: inline;
+            }
+            .footer
+            {
+                padding: 20px;
+                text-align: center;
+                color: purple;
+                background-color: #C7D3D4FF;
+            }
+            .nav
+            {
+                display: block;
+                padding: 8px;
+                background-color: #C7D3D4FF;
+            }
+            li
+            {
+                display: inline;
+                float: left;
+            }
+            ul 
+            {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #C7D3D4FF;
+            }
+            li a 
+            {
+                display: block;
+                border-radius: 5px;
+                color: purple;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+            li a:hover
+            {
+                background-color:#CBC3E3;
+            }
+            p a 
+            {
+                text-decoration: none !important;
+                color: purple;
+            }
+            .right 
+            {
+                float: right;
+                padding-right: 10px;
+            }
+            .maincontent
+            {
+                padding: 50px;
+            }
