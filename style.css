@@ -18,9 +18,11 @@ body{
             .contact
             {
                 background-color: #C7D3D4FF;
-                padding: 5px;
+                padding: 2px;
                 font-family: sans-serif;
                 padding-left: 20px;
+                color: purple;
+                font-size: medium;
             }
             .contactp
             {
@@ -37,7 +39,7 @@ body{
             .nav
             {
                 display: block;
-                padding: 8px;
+                padding: 0px;
                 background-color: #C7D3D4FF;
             }
             li
@@ -64,7 +66,8 @@ body{
             }
             li a:hover
             {
-                background-color:#CBC3E3;
+                background-color: purple;
+                color: #CBC3E3;
             }
             p a 
             {
@@ -103,4 +106,13 @@ body{
             {
                 padding: 5px;
                 float: right;
+            }
+            .slidetext
+            {
+                color: purple;
+            }
+            .marqueebox
+            {
+                width: 100%;
+                margin: 0px;
             }
