@@ -110,7 +110,7 @@ body{
             .slidetext
             {
                 color: purple;
-                width: 50%;
+                width: auto;
                 padding-left: 475px;
                 position: relative;
             }
