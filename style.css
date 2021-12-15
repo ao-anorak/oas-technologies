@@ -112,6 +112,7 @@ body{
                 color: purple;
                 width: 50%;
                 padding-left: 475px;
+                position: relative;
             }
             .marqueebox
             {
