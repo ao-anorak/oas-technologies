@@ -2,7 +2,7 @@ body{
                 margin-top: 0px;
                 margin-right: 0px;
                 margin-left: 0px;
-                font-family = "arial, helvetica, san-serif"
+                font-family : "arial, helvetica, san-serif"
             }
             .header
             {
@@ -24,7 +24,7 @@ body{
             }
             .contactp
             {
-                font-style: bold;
+                font-style: normal;
                 display: inline;
             }
             .footer
@@ -79,4 +79,28 @@ body{
             .maincontent
             {
                 padding: 50px;
+            }
+            .blog
+            {
+                float: right;
+                padding-right: 10px;
+                font-weight: bold;
+            }
+            h5
+            {
+                display: inline-block;
+            }
+            .ig 
+            {
+                padding: 5px;
+            }
+            .fb
+            {
+                padding: 5px;
+                float: right;
+            }
+            .tw 
+            {
+                padding: 5px;
+                float: right;
             }
