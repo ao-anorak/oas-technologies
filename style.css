@@ -45,6 +45,9 @@ body{
                 display: block;
                 padding: 0px;
                 background-color: #C7D3D4FF;
+                z-index: 999;
+                position: fixed;
+                width: 100%;
             }
             .navbar > li
             {
@@ -54,6 +57,9 @@ body{
             .navbar
             {
                 list-style-type: none;
+                z-index: 999;
+                position: fixed;
+                width: 100%;
                 margin: 0;
                 padding: 0;
                 overflow: hidden;
