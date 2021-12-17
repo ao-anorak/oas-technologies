@@ -1,0 +1,150 @@
+body{
+                margin-top: 0px;
+                margin-right: 0px;
+                margin-left: 0px;
+                margin-bottom: 0px;
+                font-family : "Arial, Helvetica, san-serif"
+            }
+            .header
+            {
+                background-image: url(/files/bg2.png);
+                text-align: center;
+                color: black;
+                filter: brightness(130%) ;
+                padding: 50px;
+            }
+            .tagline
+            {
+                color: #603F83FF;
+            }
+            .contact
+            {
+                background-color: #C7D3D4FF;
+                padding: 1px;
+                font-family: sans-serif;
+                padding-left: 20px;
+                color: #603F83FF;
+                font-size: medium;
+            }
+            .contactp
+            {
+                font-style: normal;
+                display: inline;
+            }
+            .footer
+            {
+                padding: 1px;
+                text-align: center;
+                color: #603F83FF;
+                background-color: #C7D3D4FF;
+                margin-bottom: 0px;
+                position: relative;
+            }
+            .nav
+            {
+                display: block;
+                padding: 0px;
+                background-color: #C7D3D4FF;
+            }
+            .navbar > li
+            {
+                display: inline;
+                float: left;
+            }
+            .navbar
+            {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #C7D3D4FF;
+                
+            }
+            .navbar > li a 
+            {
+                display: block;
+                color: #603F83FF;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+            .navbar > li a:hover
+            {
+                background-color: #603F83FF;
+                color: #CBC3E3;
+            }
+            p a 
+            {
+                text-decoration: none !important;
+                color: #603F83FF;
+            }
+            .right 
+            {
+                float: right;
+                padding-right: 10px;
+            }
+            .maincontent
+            {
+                padding: 50px;
+                position: right;
+                margin-left: 170px;
+            }
+            .blog
+            {
+                float: right !important;
+                font-weight: bold;
+            }
+            h5
+            {
+                display: inline-block;
+            }
+            .ig 
+            {
+                padding: 5px;
+            }
+            .fb
+            {
+                padding: 5px;
+                float: right;
+            }
+            .tw 
+            {
+                padding: 5px;
+                float: right;
+            }
+            .slidetext
+            {
+                color: #603F83FF;
+                width: auto;
+                padding-left: auto;
+                position: relative;
+                text-align: center;
+            }
+            .marqueebox
+            {
+                width: auto;
+                margin: 0px;
+                align-self: center;
+                text-align: center;
+            }
+            .sidecontent
+            {
+                flex: 13%;
+                background-color: #CBC3E3; 
+                padding: 10px; 
+                color: black;
+                width: auto;
+                height: 100%;
+                margin: 10px;
+                float: left;
+            }
+                .row
+            {
+                flex-direction: column;
+            }
+            .maincontent
+            {
+                flex: 70%;
+                padding: 20px;
+                width: fit-content;
+            }

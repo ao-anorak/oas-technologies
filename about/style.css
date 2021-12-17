@@ -1,0 +1,87 @@
+body
+{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    font-family: "Arial, Helvetica, sans-serif";
+}
+.nav
+            {
+                display: block;
+                padding: 0px;
+                background-color: #C7D3D4FF;
+            }
+            .navbar > li
+            {
+                display: inline;
+                float: left;
+            }
+            .navbar
+            {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #C7D3D4FF;
+            }
+            .navbar > li a 
+            {
+                display: block;
+                color: #603F83FF;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+            .navbar > li a:hover
+            {
+                background-color: #603F83FF;
+                color: #CBC3E3;
+            }
+            .blog
+            {
+                float: right !important;
+                font-weight: bold;
+            }
+            .contact
+            {
+                background-color: #C7D3D4FF;
+                padding: 1px;
+                font-family: sans-serif;
+                padding-left: 20px;
+                color: #603F83FF;
+                font-size: medium;
+            }
+            .contactp
+            {
+                font-style: normal;
+                display: inline;
+            }
+            .footer
+            {
+                padding: 1px;
+                text-align: center;
+                color: #603F83FF;
+                background-color: #C7D3D4FF;
+                margin-bottom: 0px;
+                position: relative;
+            }
+            .ig 
+            {
+                padding: 5px;
+                float: right;
+            }
+            .fb
+            {
+                padding: 5px;
+                float: right;
+            }
+            .tw 
+            {
+                padding: 5px;
+                float: right;
+            }
+            h5
+            {
+                display: inline-block;
+            }
