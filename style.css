@@ -7,7 +7,7 @@ body{
             }
             .header
             {
-                background-image: url(/files/bg2.png);
+                background-image: url(bg2.png);
                 text-align: center;
                 color: black;
                 filter: brightness(130%) ;
